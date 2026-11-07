@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm fatikitty20
 
-<!--
-**fatikitty20/fatikitty20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer focused on building clean interfaces, dashboards, and user-focused web apps.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React / TypeScript
+- Vite / Tailwind
+- UI/UX focused dashboards
+- Portfolio projects and demos
+- Learning and improving product engineering every day
+
+## Projects
+
+- [magic-pay-admin](https://github.com/fatikitty20/magic-pay-admin)
+- [DashBoardMagitronic](https://github.com/fatikitty20/DashBoardMagitronic)
+- [veterinary-system](https://github.com/fatikitty20/veterinary-system)
+- [Metropelis](https://github.com/fatikitty20/Metropelis)
+
+## Contact
+
+- GitHub: [@fatikitty20](https://github.com/fatikitty20)
+- LinkedIn: [Add your profile URL](https://linkedin.com)
